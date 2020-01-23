@@ -1,0 +1,14 @@
+{
+    "kafka": {
+        "host": "localhost",
+        "port": "9092",
+        "topics": {
+            "pubsub": "pubsub",
+            "restclient": "restclient"
+        }
+    },
+    "server": {
+        "port": "8080",
+        "profile": "dev"
+    }
+}
